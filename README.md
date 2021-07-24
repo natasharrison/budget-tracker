@@ -26,5 +26,6 @@ Updating an existing budget tracer application to allow for offline access and f
 
 - Starter code provided by UA Coding Bootcamp
 - Lesson 18.4 NoSQL for PWA offline functionality 
+- Lesson 19.4 Using Service Worker
 
 ## Future Development / Bugs
