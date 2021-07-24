@@ -20,12 +20,12 @@ Updating an existing budget tracer application to allow for offline access and f
 ## Repository
 
 [GitHub] https://github.com/natasharrison/budget-tracker.git
-[Heroku]
+[Heroku] https://hidden-inlet-21667.herokuapp.com/
 
 ## Contributing
 
 - Starter code provided by UA Coding Bootcamp
-- Lesson 18.4 NoSQL for PWA offline functionality 
+- Lesson 18.4 NoSQL for PWA offline functionality
 - Lesson 19.4 Using Service Worker
 
 ## Future Development / Bugs
