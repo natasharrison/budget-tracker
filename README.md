@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker
 
 ## Description
 
@@ -19,8 +19,8 @@ Updating an existing budget tracker application to allow for offline access and 
 
 ## Repository
 
-[GitHub] https://github.com/natasharrison/budget-tracker.git
-[Heroku] https://hidden-inlet-21667.herokuapp.com/
+- [GitHub] https://github.com/natasharrison/budget-tracker.git
+- [Heroku] https://hidden-inlet-21667.herokuapp.com/
 
 ## Screenshot 
 
@@ -31,5 +31,3 @@ Updating an existing budget tracker application to allow for offline access and 
 - Starter code provided by UA Coding Bootcamp
 - Lesson 18.4 NoSQL for PWA offline functionality
 - Lesson 19.4 Using Service Worker
-
-## Future Development / Bugs
