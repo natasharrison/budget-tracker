@@ -22,6 +22,10 @@ Updating an existing budget tracer application to allow for offline access and f
 [GitHub] https://github.com/natasharrison/budget-tracker.git
 [Heroku] https://hidden-inlet-21667.herokuapp.com/
 
+## Screenshot 
+
+![screenshot](./public/assets/screenshot.JPG)
+
 ## Contributing
 
 - Starter code provided by UA Coding Bootcamp
